@@ -4,6 +4,7 @@
 
 - **개발인원**: **7명** (조강민(팀장), 김성찬, 김태원, 전수민, 양재영, 이유진, 장훈)
 - **발표영상**: [1:39:40](https://www.youtube.com/live/0KSpFrGWGXg?si=VEBAsssOHXOPm0op)
+- **API 명세서**: [바로가기](https://www.notion.so/API-_-16af6f63a3458094999ff47494cc97e4?source=copy_link)
 
 ---
 
